@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/782086042836166889/67730afc3d18486fad5c8b20376703fd/artifacts
+end_time: 1745199732031
+entry_point_name: ''
+experiment_id: '782086042836166889'
+lifecycle_stage: active
+run_id: 67730afc3d18486fad5c8b20376703fd
+run_name: stately-sloth-591
+run_uuid: 67730afc3d18486fad5c8b20376703fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745199726670
+status: 3
+tags: []
+user_id: tyrelmenezes
